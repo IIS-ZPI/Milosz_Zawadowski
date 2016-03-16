@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 zmiana master Beard hella health goth, freegan swag marfa listicle plaid pickled actually pitchfork brooklyn farm-to-table mumblecore flexitarian. Helvetica fap portland, poutine keffiyeh schlitz single-origin coffee quinoa ramps master 
+=======
+Beard hella health goth, freegan swag marfa listicle plaid pickled actually pitchfork brooklyn farm-to-table mumblecore flexitarian. Helvetica fap portland, poutine keffiyeh schlitz single-origin coffee quinoa ramps master zmiana na branchu4a
+>>>>>>> branch4a

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 zmiana master itters lo-fi crucifix whatever, microdosing cornhole lumbersexual four loko neutra listicle DIY everyday carry. Mumblecore slow-carb chicharrones, tacos affogato marfa meh kale chips drinking vinegar franzen jean shorts 
+=======
+itters lo-fi crucifix whatever, microdosing cornhole lumbersexual four loko neutra listicle DIY everyday carry. Mumblecore slow-carb chicharrones, tacos affogato marfa meh kale chips drinking vinegar franzen jean shorts zmiana na branchu4a
+>>>>>>> branch4a
